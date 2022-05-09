@@ -42,3 +42,9 @@ ul {
     width: 350px;
    
 }
+.botao {
+    background-color: rgb(137, 137, 250);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
