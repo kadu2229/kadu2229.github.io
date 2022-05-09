@@ -48,3 +48,9 @@ ul {
     padding: 10px;
     border-radius: 10px;
 }
+.botao:hover {
+    background-color: green;
+}
+.botao:active {
+    background-color: green;
+}
